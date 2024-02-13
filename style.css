@@ -207,7 +207,7 @@ padding: 30px;
     color: white !important;
 }
 .containercontact{
-    min-height:700px;
+    min-height:400px;
     width:90%;
     background: transparent;
     background:linear-gradient(to right,#ea3ec4,#9743c1);
